@@ -11,4 +11,4 @@ In this project we have a button tag the sends the user to their instagram accou
 Still need styling and also include messages or comments from friends so the user can see based on their location.
 
 ## Lesson Learned:
-Will come late when changes are made.
+Will come later when changes are made.
